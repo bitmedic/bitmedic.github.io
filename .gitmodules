@@ -1,3 +1,7 @@
 [submodule "puzzle"]
 	path = puzzle
 	url = https://github.com/bitmedic/puzzle
+[submodule "clicks"]
+	path = clicks
+	url = https://github.com/bitmedic/clicks.git
+	branch = main
